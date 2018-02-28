@@ -1,5 +1,6 @@
 backend:
-  name: test-repo
+  name: github
+  repo: mackmmiller/gatsby-demo
 
 media_folder: static/assets
 
