@@ -3,6 +3,7 @@ backend:
   repo: mackmmiller/gatsby-demo
 
 media_folder: static/assets
+public_folder: /assets
 
 collections:
   - name: post
